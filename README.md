@@ -7,7 +7,7 @@ I am a Software Developer with a strong focus on writing efficient, maintainable
 I spend a significant amount of my time on platforms like GeeksforGeeks and LeetCode, not just to solve problems, but to understand the most efficient ways to handle data and logic at scale.
 
 ### 📊 Technical Profile & Stats
-* **Problem Solving:** Successfully solved over 450+ problems across major platforms.
+* **Problem Solving:** Successfully solved over 500+ problems across major platforms.
 * **GeeksforGeeks:** 336+ problems (Focus on Array, Tree, and DP).
 * **LeetCode:** 151+ problems (Focus on Medium/Hard algorithmic challenges).
 * **Core Strength:** Logic Optimization, Big-O analysis, and clean System Design.
@@ -47,4 +47,4 @@ I spend a significant amount of my time on platforms like GeeksforGeeks and Leet
 ### 🤝 Let's Connect
 I'm always open to discussing technical challenges, open-source projects, or software engineering opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/gouravds/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/avantibwgh/)
+**[LinkedIn](https://www.linkedin.com/in/gouravds/)** | **[LeetCode](https://leetcode.com/u/GouravKing/)** | **[GeeksforGeeks](https://www.geeksforgeeks.org/user/avantibwgh/)**
