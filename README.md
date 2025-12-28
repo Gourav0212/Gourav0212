@@ -16,8 +16,14 @@ I spend a significant amount of my time on platforms like GeeksforGeeks and Leet
 * **Languages:** C++, JavaScript, SQL
 * **Interests:** Logic Optimization, System Design, Scalable Architecture
 * **Tools:** Git, GitHub, VS Code
+  
+### 🛡️ Featured Projects
+**Whistle Blow – Secure Anonymous Reporting System** *Full-Stack Web Application (Private Repository)* * **Problem:** Created a platform for users to report issues without fear of identity exposure.  
+* **Solution:** Built a privacy-first system using **Python (Flask)** and **MySQL**, focusing on identity protection and secure data handling.  
+* **Key Feature:** Developed a secure Admin Dashboard for managing submissions while maintaining data integrity.  
+* **Tech:** Python, Flask, MySQL, JavaScript, CSS/HTML.
 
----
+
 
 ### 🤝 Let's Connect
 I'm always open to discussing technical challenges, open-source projects, or software engineering opportunities.
