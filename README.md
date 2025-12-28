@@ -13,17 +13,36 @@ I spend a significant amount of my time on platforms like GeeksforGeeks and Leet
 * **Core Strength:** Logic Optimization, Big-O analysis, and clean System Design.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** C++, JavaScript, SQL
+* **Languages:** C++, Python, JavaScript, SQL
 * **Interests:** Logic Optimization, System Design, Scalable Architecture
 * **Tools:** Git, GitHub, VS Code
-  
-### 🛡️ Featured Projects
-**Whistle Blow – Secure Anonymous Reporting System** *Full-Stack Web Application (Private Repository)* * **Problem:** Created a platform for users to report issues without fear of identity exposure.  
-* **Solution:** Built a privacy-first system using **Python (Flask)** and **MySQL**, focusing on identity protection and secure data handling.  
-* **Key Feature:** Developed a secure Admin Dashboard for managing submissions while maintaining data integrity.  
-* **Tech:** Python, Flask, MySQL, JavaScript, CSS/HTML.
 
+### 🚀 Featured Projects
 
+#### 🛡️ Secure Anonymous Reporting System (Whistle Blow)
+*Developed a privacy-conscious web application for secure and anonymous reporting.*
+* **Security First:** Focused on identity protection and secure data handling using backend encryption best practices.
+* **Management:** Engineered an admin dashboard for submission management and data integrity.
+* **Tech:** Python, Flask, MySQL, JavaScript
+
+#### 📁 C++ File Backup Tool
+*System-level utility for automated file management and data safety.*
+* **Logic:** Implemented backup, restore, and automated logging using Core **Object-Oriented Programming (OOP)**.
+* **File System:** Managed complex directory structures using `fstream` and `dirent.h`.
+* **Tech:** C++, OOP, File Handling
+
+#### 🌱 Green Earth Platform
+*Community-driven platform for eco-friendly idea submissions.*
+* **Architecture:** Integrated a **REST API** with a MySQL backend to handle form submissions.
+* **Design:** Focused on intuitive UI/UX and seamless frontend-backend communication.
+* **Tech:** Flask, MySQL, JavaScript, HTML/CSS
+
+#### 💻 Personal Portfolio
+*Professional digital presence to showcase technical work and projects.*
+* **Focus:** Responsive design, cross-browser compatibility, and user interaction.
+* **Tech:** HTML5, CSS3, JavaScript
+
+---
 
 ### 🤝 Let's Connect
 I'm always open to discussing technical challenges, open-source projects, or software engineering opportunities.
