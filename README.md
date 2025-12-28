@@ -6,6 +6,8 @@ I am a Software Developer with a strong focus on writing efficient, maintainable
 
 I spend a significant amount of my time on platforms like GeeksforGeeks and LeetCode, not just to solve problems, but to understand the most efficient ways to handle data and logic at scale.
 
+[🌐 View My Live Portfolio](https://Gourav0212.github.io/Gourav-Portfolio/)
+
 ### 📊 Technical Profile & Stats
 * **Problem Solving:** Successfully solved over 500+ problems across major platforms.
 * **GeeksforGeeks:** 336+ problems (Focus on Array, Tree, and DP).
